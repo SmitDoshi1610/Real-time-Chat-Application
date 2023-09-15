@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone git@github.com:Ekam-Preet-Singh/Minor-Project.git
+  git clone https://github.com/SmitDoshi1610/Real-time-Chat-Application.git
 ```
 
 Go to the project directory
